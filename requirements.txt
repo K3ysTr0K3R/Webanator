@@ -1,0 +1,7 @@
+os
+re
+socket
+requests
+threading
+queue
+colorama
