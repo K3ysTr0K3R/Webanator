@@ -2,9 +2,7 @@
 
 import os
 import re
-import time
 import socket
-import http.client
 import requests
 import threading
 from queue import Queue
