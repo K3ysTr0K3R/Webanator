@@ -32,7 +32,7 @@ def banner():
 	print("")
 	print(f"{RED}[{WHITE}!!!{RED}] {BLUE}Tool-Name {WHITE}: {RED}WEBANATOR")
 	print(f"{RED}[{WHITE}!!!{RED}] {BLUE}Github    {WHITE}: {RED}https://github.com/K3ysTr0K3R")
-	print(f"{RED}[{WHITE}!!!{RED}] {BLUE}Instagram {WHITE}: {RED}jaredbrts175")
+	print(f"{RED}[{WHITE}!!!{RED}] {BLUE}Instagram {WHITE}: {RED}1_k3ystr0k3r_1")
 	print(f"{RED}[{WHITE}!!!{RED}] {BLUE}Coded By  {WHITE}: {RED}K3ysTr0K3R")
 banner()
 print("")
