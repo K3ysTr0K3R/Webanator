@@ -1,3 +1,2 @@
 # Webanator
-
-A webcam scraper that will scrape webcams from any country you choose to scrape from. Pick an option and watch the magick happen ;)
+Introducing an ingenious webcam scraper that harnesses its sophisticated algorithms to extract webcams from your chosen country effortlessly.
